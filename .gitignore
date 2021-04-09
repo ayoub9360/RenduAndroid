@@ -1,0 +1,27 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+React/node_modules/**/*
+React/.expo/*
+React/npm-debug.*
+React/*.jks
+React/*.p8
+React/*.p12
+React/*.key
+React/*.mobileprovision
+React/*.orig.*
+React/web-build/
+
+# macOS
+React/.DS_Store
